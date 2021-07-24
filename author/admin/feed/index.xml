@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>admin &#8211; CREATIX</title>
+	<atom:link href="https://webloopbox.github.io/website2-pawelmarek/author/admin/feed/" rel="self" type="application/rss+xml" />
+	<link>https://webloopbox.github.io/website2-pawelmarek</link>
+	<description>Kolejna witryna oparta na WordPressie</description>
+	<lastBuildDate>Mon, 06 Jul 2020 19:05:25 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.6</generator>
+	<item>
+		<title>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</title>
+		<link>https://webloopbox.github.io/website2-pawelmarek/2020/05/07/lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-2/</link>
+					<comments>https://webloopbox.github.io/website2-pawelmarek/2020/05/07/lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-2/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 07 May 2020 07:59:36 +0000</pubDate>
+				<category><![CDATA[montaż]]></category>
+		<guid isPermaLink="false">https://webloopbox.github.io/website2-pawelmarek/?p=45</guid>
+
+					<description><![CDATA[Phasellus eget sollicitudin ante. Aenean rutrum scelerisque ante, ut pretium tellus placerat vel. Morbi mollis dolor neque, et sollicitudin ante rhoncus id. Integer quis commodo nunc. Etiam feugiat leo ligula, quis efficitur leo finibus vitae. Quisque condimentum eleifend nisi, id viverra odio ornare at. Aenean nec viverra dui, at tristique erat. Nam luctus dictum erat, [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Phasellus eget sollicitudin ante. Aenean rutrum scelerisque ante, ut pretium tellus placerat vel. Morbi mollis dolor neque, et sollicitudin ante rhoncus id. Integer quis commodo nunc. Etiam feugiat leo ligula, quis efficitur leo finibus vitae. Quisque condimentum eleifend nisi, id viverra odio ornare at. Aenean nec viverra dui, at tristique erat. Nam luctus dictum erat, id tempor eros volutpat vel.</p>
+
+
+
+<span id="more-45"></span>
+
+
+
+<p>Morbi suscipit diam in diam feugiat vestibulum. Sed nec aliquam neque. Donec lacinia fermentum purus, sed blandit purus convallis vitae. Morbi vestibulum dui pulvinar lacus venenatis molestie nec nec sem. In sed porttitor felis. Mauris iaculis volutpat convallis. Pellentesque vitae tristique velit.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://webloopbox.github.io/website2-pawelmarek/2020/05/07/lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</title>
+		<link>https://webloopbox.github.io/website2-pawelmarek/2020/05/07/lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit/</link>
+					<comments>https://webloopbox.github.io/website2-pawelmarek/2020/05/07/lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 07 May 2020 07:59:19 +0000</pubDate>
+				<category><![CDATA[Bez kategorii]]></category>
+		<guid isPermaLink="false">https://webloopbox.github.io/website2-pawelmarek/?p=43</guid>
+
+					<description><![CDATA[Phasellus eget sollicitudin ante. Aenean rutrum scelerisque ante, ut pretium tellus placerat vel. Morbi mollis dolor neque, et sollicitudin ante rhoncus id. Integer quis commodo nunc. Etiam feugiat leo ligula, quis efficitur leo finibus vitae. Quisque condimentum eleifend nisi, id viverra odio ornare at. Aenean nec viverra dui, at tristique erat. Nam luctus dictum erat, [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Phasellus eget sollicitudin ante. Aenean rutrum scelerisque ante, ut pretium tellus placerat vel. Morbi mollis dolor neque, et sollicitudin ante rhoncus id. Integer quis commodo nunc. Etiam feugiat leo ligula, quis efficitur leo finibus vitae. Quisque condimentum eleifend nisi, id viverra odio ornare at. Aenean nec viverra dui, at tristique erat. Nam luctus dictum erat, id tempor eros volutpat vel.</p>
+
+
+
+<span id="more-43"></span>
+
+
+
+<p>Morbi suscipit diam in diam feugiat vestibulum. Sed nec aliquam neque. Donec lacinia fermentum purus, sed blandit purus convallis vitae. Morbi vestibulum dui pulvinar lacus venenatis molestie nec nec sem. In sed porttitor felis. Mauris iaculis volutpat convallis. Pellentesque vitae tristique velit.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://webloopbox.github.io/website2-pawelmarek/2020/05/07/lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Class aptent taciti sociosqu ad litora torquent per conubia</title>
+		<link>https://webloopbox.github.io/website2-pawelmarek/2020/05/06/class-aptent-taciti-sociosqu-ad-litora-torquent-per-conubia/</link>
+					<comments>https://webloopbox.github.io/website2-pawelmarek/2020/05/06/class-aptent-taciti-sociosqu-ad-litora-torquent-per-conubia/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 06 May 2020 20:17:38 +0000</pubDate>
+				<category><![CDATA[montaż]]></category>
+		<guid isPermaLink="false">https://webloopbox.github.io/website2-pawelmarek/?p=39</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ac urna in nunc blandit placerat. Aliquam hendrerit lacus euismod ipsum. Ut ligula felis, blandit sit amet sollicitudin quis, fermentum vitae orci. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nullam eget rutrum elit, vitae elementum erat. Nulla ultrices ligula nec purus [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ac urna in nunc blandit placerat. Aliquam hendrerit lacus euismod ipsum.</p>
+
+
+
+<span id="more-39"></span>
+
+
+
+<p>Ut ligula felis, blandit sit amet sollicitudin quis, fermentum vitae orci. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nullam eget rutrum elit, vitae elementum erat. Nulla ultrices ligula nec purus faucibus condimentum. Nam aliquam euismod maximus. Vestibulum est sem, rutrum vitae metus at, pretium imperdiet mi. Donec vehicula lorem a purus luctus eleifend. Sed eget euismod justo. Nunc vel ullamcorper neque, quis rutrum dui. Quisque nunc massa, dapibus lobortis pulvinar a, maximus ut sapien. Praesent nec dui eget felis euismod laoreet nec ut quam. Donec eleifend vitae tortor at volutpat. Nullam dictum neque non odio venenatis feugiat. Praesent eget urna a velit lacinia consectetur. Phasellus in mollis sem. Fusce quis orci a libero venenatis ornare sed vitae augue.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://webloopbox.github.io/website2-pawelmarek/2020/05/06/class-aptent-taciti-sociosqu-ad-litora-torquent-per-conubia/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
